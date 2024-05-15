@@ -1,0 +1,6 @@
+pyodbc
+sqlalchemy
+langchain
+langchain-openai
+openai==1.9.0
+python-dotenv
